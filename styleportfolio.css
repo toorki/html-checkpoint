@@ -1,0 +1,15 @@
+.content{
+    font-size: large;
+}
+.generalcontent{
+    display: block;
+    margin-bottom: 15px;
+    margin: 15px;
+}
+.image{
+    margin: 15px;
+    margin-bottom: 20px;
+}
+.bodycontent{
+    margin: 10px;
+}
