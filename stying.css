@@ -1,0 +1,147 @@
+.block0{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #F3F4F6;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    width: auto;
+    height: 450px;
+    margin-right: 32%;
+    background-image:url("background.jpg")
+}
+.block1{
+    max-width: 896px;
+    max-height: 500px;
+    display: flex;
+    justify-content: center;
+    word-spacing: auto;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: auto;
+}
+.content{
+    width: 100%;
+    max-width: 88%; 
+    box-shadow: round 672px black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #111827;
+    opacity: 0.75;
+    margin-left: 24px;
+    margin-right: 0px;
+    max-height: max-content;
+}
+.imagecolumn{
+    width: 100%;
+    max-width: 6%;
+    height: 100%;
+}
+.image{
+    filter: drop-shadow(0 25px 25px #00000F);
+    height: 550px;
+    width: 500px;
+}
+.inner{
+    padding: 16px;
+    text-align:left;
+    height: 500px;
+}
+.name{
+    font-size: 30px;
+    line-height: 36px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    padding-top: 10px;
+}
+.content1{
+    border: solid #ffffff;
+    opacity: 60%;
+    width: 90%;
+    margin-left: 40px;
+}
+.profession{
+    margin-left: 16px;
+    padding-top: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-items: center;
+}
+.description{
+    padding-top: 32px;
+    font-size: 12px;
+    line-height: 16px;
+}
+.location{
+    margin-left: 16px;
+    padding-top: 8px;
+    color: #cccccc;
+    font-size: 12px;
+    line-height: 16px;
+    justify-content: center;
+}
+.descript{
+    padding-top: 8px;
+    font-size: 12px;
+    line-height: 16px;
+}
+.cont{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.contact{
+    background-color: #006666;
+    color: #ffffff;
+    font-weight: 700;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 40%;
+    text-decoration: underline none;
+}
+.contact:hover{
+    background-color: #134e13;
+}
+.social{
+    display: flex;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+.icon1{
+    height: 24px;
+    fill: currentColor;
+    color: #4B5563;
+}
+.icon1:hover{
+    color: #00CCCC;
+}
+.icon2{
+    height: 24px;
+    fill: currentColor;
+    color: #4B5563;
+}
+.icon2:hover{
+    color: #00CCCC;
+}
+.icon3{
+    height: 24px;
+    fill: currentColor;
+    color: #4B5563;
+}
+.icon3:hover{
+    color: #00CCCC;
+}
+.proicon{
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+    color: gray;
+}
+.homeicon{
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+    color: gray;
+}
